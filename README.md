@@ -1,5 +1,3 @@
-# 2020-2-FSE-E2
-
-André Lucas de Sousa Pinto
-
-17/0068251
+2º Exercício Prático - Fundamentos de Sistemas Embarcados 2020.2 - UnB - Gama
+=========================
+André Lucas de Sousa Pinto - 17/0068251
